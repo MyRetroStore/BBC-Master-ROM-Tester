@@ -2,7 +2,7 @@
 An Arduino Mega shield to read and verify the BBC Master 1MBit ROM and compares the ROM images to known CRC-32 values for various ROMs.
 
 ## Introduction
-Modern EPROM programmers like the TL866 are unable to read the 28 pin 1Mbit ROM used in the BBC Master.  If you are troubleshooting BBC Masters and you don't have a known good BBC Master to test the ROM in, this makes it difficult to troubleshoot. 
+Modern EPROM programmers like the TL866 are unable to read the 28 pin 1Mbit ROM used in the BBC Master.  If you are troubleshooting a BBC Master and you don't have a known good BBC Master to test the ROM in, this makes it difficult to troubleshoot. 
 
 
 I built a shield for the Arduino Mega 2560 which reads the ROM and compares the CRC-32 hash values to know good ROMs found on the internet with a option of displaying the contents of the ROM via the Arduino IDE serial monitor. 
@@ -31,7 +31,7 @@ The Arduino code comes pre-configured with a set of CRC-32 hashes from the commo
 
 The gerber files for the shield can be found under hardware/gerbers
 
-![Retro ROM Tester](https://github.com/MyRetroStore/RetroRomTester/blob/main/hardware/Retro%20ROM%20Tester.png?raw=true)
+![Retro ROM Tester](https://github.com/MyRetroStore/BBC-Master-ROM-Tester/blob/main/hardware/BBC%20Master%20ROM%20Tester.jpg?raw=true)
 
 ## BOM
 | Reference | Value |
