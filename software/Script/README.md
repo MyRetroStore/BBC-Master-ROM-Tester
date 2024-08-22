@@ -25,6 +25,9 @@ This calculates the CRC-32 hash for the ROM binary (filename) and updates the cr
  ./generate_crc.py -i ROMs/basic.bin
  ```
 
+![Serial Output](https://github.com/MyRetroStore/BBC-Master-ROM-Tester/blob/main/software/Script/script-output.png?raw=true)
+
+
 Once completed copy ```crc.h``` back to the Arduino folder and compile and upload the sketch to the Mega2560.
 
 
