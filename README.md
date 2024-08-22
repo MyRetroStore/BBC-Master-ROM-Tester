@@ -38,6 +38,7 @@ The gerber files for the shield can be found under hardware/gerbers
 | ------ | ------ |
 | Pass | Green LED 0805 |
 | Fail | Red LED 0805 |
+| R1/R2 | 2k2 0805 Resistors |
 | U1 | 40 Pin ZIF Socket |
 | SW1 | Push Button Switch 6x6x6 |
 | | 2.54mm SIL Male Headers
