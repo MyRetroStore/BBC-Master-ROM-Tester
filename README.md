@@ -31,7 +31,7 @@ The Arduino code comes pre-configured with a set of CRC-32 hashes from the commo
 
 The gerber files for the shield can be found under hardware/gerbers
 
-![Retro ROM Tester](https://github.com/MyRetroStore/BBC-Master-ROM-Tester/blob/main/hardware/BBC%20Master%20ROM%20Tester%Shield.jpg?raw=true)
+![Retro ROM Tester](https://github.com/MyRetroStore/BBC-Master-ROM-Tester/blob/main/hardware/BBC%20Master%20ROM%20Tester%20Shield.jpg?raw=true)
 
 ## BOM
 | Reference | Value |
