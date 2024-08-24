@@ -26,8 +26,11 @@ static const t_crc_16k crc_16k[] PROGMEM = {
   {"View B3.0", "76007739"},
   {"Terminal 1.20", "F3A9F765"},
   {"MOS 2.00", "2D4C5C93"},
+  {"MOS 2.00 Patched", "2742E8A"},
   {"MOS 1.20", "101DC533"},
+  {"MOS 1.20 Patched", "20AA4793"},
   {"ARM 1.13", "70E3485B"},
+  {"ARM 1.13", "9666402"},
   {"Exmon II 2.02", "947DB439"},
   {"Basic Editor 1.32", "A530B056"},
   {"View A3.0", "ADB2D1A6"},
@@ -36,4 +39,8 @@ static const t_crc_16k crc_16k[] PROGMEM = {
   {"ADT 2.00", "7BC4086F"},
   {"Toolkit Plus", "D35E75F3"},
   {"DumpMaster II 1.00", "37C3157B"},
+  {"Snapper 1.20", "E1B32053"},
+  {"View A3.0","C6DB4805"},
+  {"DFS 2.26","E22CEA6F"},
+  
 }; // End of 16k marker
